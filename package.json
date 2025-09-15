@@ -20,5 +20,8 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-plugin-frontmatter": "0.0.8"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.24.0"
   }
 }
